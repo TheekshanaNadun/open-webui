@@ -66,7 +66,7 @@ ENV OPENAI_API_KEY="" \
     SCARF_NO_ANALYTICS=true \
     DO_NOT_TRACK=true \
     ANONYMIZED_TELEMETRY=false \
-    STORAGE_PROVIDER="s3" \
+    STORAGE_PROVIDER="s3"
 
 
 #### Other models #########################################################
